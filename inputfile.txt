@@ -1,0 +1,8 @@
+a = 1
+whenever a==1{
+    a = a* 5
+    } 
+otherwise {
+    a = a*10
+    };
+a
